@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013806145114",
+    "project_id": "starchainv2",
+    "storage_bucket": "starchainv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013806145114:android:d57a239e53eec642454263",
+        "android_client_info": {
+          "package_name": "com.starchain.inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013806145114-6d5onse2smppak6ikhev86didfuv9pnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV4XnF66UVa4V1MI_N7fWrun9pWJC-228"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013806145114-6d5onse2smppak6ikhev86didfuv9pnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
